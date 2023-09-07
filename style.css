@@ -28,12 +28,22 @@ header nav div ul li a{
     color: white;
     margin-right: 30px;
     font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-logo{
+    padding-right: 5px;
 }
 
 .logo{
     text-decoration: none;
     color: white;
     font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .text-center{
